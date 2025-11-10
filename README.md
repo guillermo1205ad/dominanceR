@@ -1,6 +1,6 @@
 # dominanceR
 
-Herramientas para comparar distribuciones mediante CDF, GLC y el Test de Araar.
+Herramientas para análisis de dominancia estocástica (SD1 / SD2) mediante CDF, Curvas Generalizadas de Lorenz y el Test de Araar con bandas bootstrap. Diseñado para investigación económica aplicada y reproducible.
 
 ---
 
