@@ -1,16 +1,15 @@
 Package: dominanceR
 Type: Package
-Title: What the Package Does (Title Case)
+Title: dominanceR
 Version: 0.1.0
 Authors@R: c(
     person(
       "Jane", "Doe",
-      email = "jane@example.com",
+      email = "guillermo1205ad@gmail.com",
       role = c("aut", "cre")
     )
   )
-Description: More about what it does (maybe more than one line).
-    Continuation lines should be indented.
+Description: CDF; GLC; Araar test
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
