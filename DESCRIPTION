@@ -4,7 +4,7 @@ Title: dominanceR
 Version: 0.1.0
 Authors@R: c(
     person(
-      "Jane", "Doe",
+      "Guillermo", "Peralta",
       email = "guillermo1205ad@gmail.com",
       role = c("aut", "cre")
     )
