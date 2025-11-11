@@ -20,7 +20,7 @@ dominance_panel_df <- function(data,
                                compare_levels = NULL,
                                B = 1000,
                                conf = 0.95,
-                               out_dir = "/Users/guillermoperalta/Desktop/plots") {
+                               out_dir = "tu_directorio/plots") {
 
   if (!dir.exists(out_dir)) dir.create(out_dir, recursive = TRUE)
 
